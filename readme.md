@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Nathan Schmitt
+# 👨🏻‍💻 Nathan Schmitt
 
 **`Desenvolvedor`**
 <p>👋 Olá! Sou estudante de Engenharia de Software e formado em Técnico de Mecatrônica.</p>
